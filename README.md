@@ -4,10 +4,10 @@ Front end do teste técnico realizado para a empresa HubLocal
 
 ### Pré-Requisitos
 
-- [Estar rodando o lado back-end da aplicação] (https://github.com/ericmadson/HubLocalTechTesteBack)
-- [NodeJS => v16.13.0]
-- [NPM => v8.1.0]
-- [Yarn => 1.22.11]
+- Lado [back end](https://github.com/ericmadson/HubLocalTechTesteBack) da aplicação 
+- NodeJS => v16.13.0
+- NPM => v8.1.0
+- Yarn => 1.22.11
 
 ### Instalação
 
