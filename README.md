@@ -13,11 +13,11 @@ Front end do teste técnico realizado para a empresa HubLocal
 
 Clone o repositório
 
-    yarn
+    git clone https://github.com/ericmadson/HubLocalTechTestFront.git
 
 Navegue até o repositório
 
-    yarn
+    cd HubLocalTechTestFront
 
 Instale as dependências
 
